@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Collaale
 - 👀 I’m interested in turn the world in a better place
-- 🌱 I’m currently learning all the import stuff for me
+- 🌱 I’m currently learning all the important stuff for me
 - 💞️ I’m looking to collaborate on data science
 - 📫 How to reach me https://sites.google.com/view/adcolla/p%C3%A1gina-inicial and https://www.linkedin.com/in/alessandrodutracolla/
 
